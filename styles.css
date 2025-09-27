@@ -83,8 +83,8 @@ body {
 
 .container {
   display: grid;
-    grid-template-columns: repeat(2, 180px);
-  grid-template-rows: repeat(2, 180px);
+    grid-template-columns: repeat(2, 280px);
+  grid-template-rows: repeat(2, 280px);
   row-gap: 50px;
   column-gap: 35px;
   place-items: center;
@@ -97,8 +97,8 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 180px;
-  width: 180px;
+  height: 280px;
+  width: 280px;
   border: 10px solid black;
   border-radius: 20%;
 }
